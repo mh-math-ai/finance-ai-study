@@ -9,10 +9,17 @@ Learning repository focused on the intersection of Advanced Mathematics and Fina
 
 -2026-02-10: Installed Python 3.13.9(Stable) on Intel Mac. Skipped 3.14 or above to ensure library compatibility.
 
--2026-02-11: Practice Python data types and variable manipulation.
+-2026-02-11: Practiced Python data types and variable manipulation.
 
--2026-02-12: Practice Python operators
+-2026-02-12: Practiced Python operators
 
--2026-02-13: Make changes in operators.py(add annotations)
+-2026-02-13: Made changes in operators.py(add annotations)
 
--2026-02-13: Practice Python math expressions, numeric functions, and import math library
+-2026-02-13: Practiced Python math expressions, numeric functions, and import math library
+
+-2026-02-14: Set up fcitx5 for Pop!OS 
+
+-2026-02-14: Installed VS Code and connected with GitHub 
+
+-2026-02-14: Practiced Python random generators 
+
