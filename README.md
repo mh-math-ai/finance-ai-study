@@ -23,3 +23,6 @@ Learning repository focused on the intersection of Advanced Mathematics and Fina
 
 -2026-02-14: Practiced Python random generators 
 
+-2026-02-15: Mounted Radeon GPU and updated system packages on Pop!_OS
+
+-2026-02-16: Practiced Python strings(slicing, methods, formatting) and escape characters
