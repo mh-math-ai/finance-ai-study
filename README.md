@@ -26,3 +26,8 @@ Learning repository focused on the intersection of Advanced Mathematics and Fina
 -2026-02-15: Mounted Radeon GPU and updated system packages on Pop!_OS
 
 -2026-02-16: Practiced Python strings(slicing, methods, formatting) and escape characters
+
+-2026-02-17: Installed GCC and C/C++ compliers in VS Code
+
+-2026-02-17: Practiced Python list, dictionary, and tuple 
+
