@@ -31,3 +31,7 @@ Learning repository focused on the intersection of Advanced Mathematics and Fina
 
 -2026-02-17: Practiced Python list, dictionary, and tuple 
 
+-2026-02-18: Practiced Python set, changing data structures, and solved quiz
+
+-2026-02-18: Practiced Python if statement 
+
