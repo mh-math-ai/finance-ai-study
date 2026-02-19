@@ -35,3 +35,5 @@ Learning repository focused on the intersection of Advanced Mathematics and Fina
 
 -2026-02-18: Practiced Python if statement 
 
+-2026-02-19: Practiced Python iteration statements etc. for and while
+
