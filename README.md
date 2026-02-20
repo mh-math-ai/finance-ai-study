@@ -37,3 +37,7 @@ Learning repository focused on the intersection of Advanced Mathematics and Fina
 
 -2026-02-19: Practiced Python iteration statements etc. for and while
 
+-2026-02-20: Practiced Python statements etc. continue, break, and for as one-liners
+
+-2026-02-20: Solved the following quiz using random library and Python statements 
+
