@@ -1,5 +1,6 @@
-# finance-ai-study
-Learning repository focused on the intersection of Advanced Mathematics and Financial AI 
+# python-skills-study
+
+Learning repository focused on Python skills to cover the intersection of Advanced Mathematics and Financial AI 
 
 ##Daily Log
 
